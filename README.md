@@ -12,3 +12,5 @@ function mystery(a) {
     else return a[0];
 }
 ```
+This function will take in as list and find the largest element of the list by recursevley calling the function (making the list smaller each time), if you input a sting it will find the "largest" letter in a sting and return that single letter.
+-Samuel Gonzalez
